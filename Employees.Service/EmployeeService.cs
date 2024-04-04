@@ -18,13 +18,17 @@ namespace Employees.Service
             return employees.Where(employee => employee.IsActive == true && (filter == null ||
                 (employee.FirstName != null && employee.FirstName.Contains(filter, StringComparison.OrdinalIgnoreCase)) ||
                 (employee.LastName != null && employee.LastName.Contains(filter, StringComparison.OrdinalIgnoreCase)) ||
-                (employee.Identity != null && employee.Identity.Contains(filter, StringComparison.OrdinalIgnoreCase))||
-               (employee.Roles != null && employee.Roles.Any(role => (role.Role.Name != null && role.Role.Name.Contains(filter, StringComparison.OrdinalIgnoreCase))))));
+                (employee.Identity != null && employee.Identity.Contains(filter, StringComparison.OrdinalIgnoreCase)) ||
+                (employee.Roles != null && employee.Roles.Any(role => (role.RoleType.Name != null && role.RoleType.Name.Contains(filter, StringComparison.OrdinalIgnoreCase))))));
         }
 
         public async Task<Employee> GetEmployeeAsync(int id) => await _employeeRepository.GetEmployeeAsync(id);
 
-        public async void AddEmployeeAsync(Employee emp) => await _employeeRepository.AddEmployeeAsync(emp);
+        public async Task AddEmployeeAsync(Employee emp)
+        {
+            emp.IsActive = true;
+            await _employeeRepository.AddEmployeeAsync(emp);
+        }
 
         public async Task<Employee> UpdateEmployeeAsync(int id, Employee emp) => await _employeeRepository.UpdateEmployeeAsync(id, emp);
 

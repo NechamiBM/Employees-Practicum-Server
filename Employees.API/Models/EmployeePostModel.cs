@@ -10,6 +10,6 @@ namespace Employees.API.Models
         public DateTime StartWorkDate { get; set; }
         public DateTime BirthDate { get; set; }
         public Gender Gender { get; set; }
-        public List<RoleEmployeePostModel> Roles { get; set; }
+        public List<RolePostModel> Roles { get; set; }
     }
 }

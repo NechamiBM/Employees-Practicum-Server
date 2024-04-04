@@ -1,38 +1,20 @@
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.deps.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.runtimeconfig.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Data.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Data.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.AssemblyReference.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfoInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfo.cs
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.CoreCompileInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.CopyComplete
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\refint\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.genruntimeconfig.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.Service\obj\Debug\net6.0\ref\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.deps.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.runtimeconfig.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Data.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Data.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.AssemblyReference.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfoInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfo.cs
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.CoreCompileInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.CopyComplete
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\refint\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.genruntimeconfig.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.Service\obj\Debug\net6.0\ref\Employees.Service.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.deps.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.runtimeconfig.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Data.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Data.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.AssemblyReference.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfo.cs
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.sourcelink.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employee.E5E494EB.Up2Date
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\refint\Employees.Service.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.genruntimeconfig.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Service\obj\Debug\net6.0\ref\Employees.Service.dll

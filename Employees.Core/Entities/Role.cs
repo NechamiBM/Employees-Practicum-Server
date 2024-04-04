@@ -2,7 +2,10 @@
 {
     public class Role
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+        public RoleType RoleType { get; set; }
+        public int RoleTypeId { get; set; }
+        public DateTime StartDate { get; set; }
+        public bool IsAdministrative { get; set; }
+        public int EmployeeId { get; set; }
     }
 }

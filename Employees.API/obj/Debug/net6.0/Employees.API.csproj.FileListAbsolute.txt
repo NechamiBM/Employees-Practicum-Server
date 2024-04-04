@@ -1,157 +1,85 @@
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\appsettings.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.API.exe
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.API.deps.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.API.runtimeconfig.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.API.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\EntityFramework.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Humanizer.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.CodeDom.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.AssemblyReference.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfoInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfo.cs
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CoreCompileInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\scopedcss\bundle\Employees.API.styles.css
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CopyComplete
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\refint\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\‏‏תיקיה חדשה\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\appsettings.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.API.exe
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.API.deps.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.API.runtimeconfig.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.API.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\EntityFramework.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Humanizer.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.CodeDom.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.AssemblyReference.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfoInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfo.cs
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CoreCompileInputs.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\scopedcss\bundle\Employees.API.styles.css
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CopyComplete
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\refint\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll
-C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE\Employees\Employees.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.API.exe
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.API.deps.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.API.runtimeconfig.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.API.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.API.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.AssemblyReference.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfo.cs
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.sourcelink.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.Employees.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees.API.props
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees.API.props
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees.API.props
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\scopedcss\bundle\Employees.API.styles.css
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employee.1B3735E2.Up2Date
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\refint\Employees.API.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll

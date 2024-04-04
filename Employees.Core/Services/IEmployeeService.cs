@@ -6,7 +6,7 @@ namespace Employees.Core.Services
     {
         Task<IEnumerable<Employee>> GetEmployeesAsync(string? filter);
         Task<Employee> GetEmployeeAsync(int id);
-        void AddEmployeeAsync(Employee emp);
+        Task AddEmployeeAsync(Employee emp);
         Task<Employee> UpdateEmployeeAsync(int id, Employee emp);
         void DeleteEmployee(int id);
     }

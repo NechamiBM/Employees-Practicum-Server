@@ -1,6 +1,7 @@
 ﻿using Employees.Core.Entities;
 using Employees.Core.Repositories;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Employees.Data.Repositories
 {
@@ -9,22 +10,20 @@ namespace Employees.Data.Repositories
         private readonly DataContext _context;
         public EmployeeRepository(DataContext context) => _context = context;
 
+        public async Task<IEnumerable<Employee>> GetEmployeesAsync() => await Task.FromResult(_context.Employees.Include(e => e.Roles).ThenInclude(r => r.RoleType));
 
-        public async Task<IEnumerable<Employee>> GetEmployeesAsync() => await Task.FromResult(_context.Employees.Include(e => e.Roles));
-
-        public async Task<Employee> GetEmployeeAsync(int id) => await Task.FromResult(_context.Employees.Include(e => e.Roles).FirstOrDefault(e => e.Id == id));
+        public async Task<Employee> GetEmployeeAsync(int id) => await _context.Employees.Where(e => e.Id == id).Include(e => e.Roles).ThenInclude(r => r.RoleType).FirstAsync();
 
         public async Task AddEmployeeAsync(Employee emp)
         {
+            emp.Roles.DistinctBy(r => r.RoleTypeId).ToList();
             _context.Employees.Add(emp);
-            emp.Roles.Select(r => r.EmployeeId = emp.Id);
             await Task.FromResult(_context.SaveChangesAsync());
         }
 
         public async Task<Employee> UpdateEmployeeAsync(int id, Employee emp)
         {
-
-            var employee = _context.Employees.Find(id);
+            var employee = await _context.Employees.Where(e => e.Id == id).Include(e => e.Roles).FirstOrDefaultAsync();
             if (employee != null)
             {
                 employee.FirstName = emp.FirstName;
@@ -33,11 +32,11 @@ namespace Employees.Data.Repositories
                 employee.BirthDate = emp.BirthDate;
                 employee.Gender = emp.Gender;
                 employee.StartWorkDate = emp.StartWorkDate;
-                employee.Roles = emp.Roles;
-                employee.Roles.Select(r => r.EmployeeId = employee.Id);
+                employee.IsActive = emp.IsActive;
+                employee.Roles= emp.Roles.DistinctBy(r => r.RoleTypeId).ToList();
             }
             await _context.SaveChangesAsync();
-            return emp;
+            return employee;
         }
 
         public async Task DeleteEmployeeAsync(int id)

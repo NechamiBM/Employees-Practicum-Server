@@ -2,9 +2,9 @@
 
 namespace Employees.API.Models
 {
-    public class RoleEmployeePostModel
+    public class RolePostModel
     {
-        public int RoleId { get; set; }
+        public int RoleTypeId { get; set; }
         public DateTime StartDate { get; set; }
         public bool IsAdministrative { get; set; }
     }

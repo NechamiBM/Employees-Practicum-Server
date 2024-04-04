@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Employees.API.Models;
+using Employees.Core.DTOs;
 using Employees.Core.Entities;
 using Employees.Core.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -14,6 +15,7 @@ namespace Employees.API.Controllers
     {
         private readonly IEmployeeService _employeeService;
         private readonly IMapper _mapper;
+
         public EmployeeController(IEmployeeService employeeService, IMapper mapper)
         {
             _employeeService = employeeService;
@@ -24,7 +26,9 @@ namespace Employees.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get(string? filter)
         {
-            return Ok(await _employeeService.GetEmployeesAsync(filter));
+            var employees = await _employeeService.GetEmployeesAsync(filter);
+            var employeeDtos = employees.Select(e => _mapper.Map<EmployeeDto>(e));//_mapper.Map<IEnumerable<EmployeeDto>>(employees);
+            return Ok(employeeDtos);
         }
 
         // GET api/<EmployeeController>/5
@@ -32,36 +36,37 @@ namespace Employees.API.Controllers
         public async Task<IActionResult> Get(int id)
         {
             var employee = await _employeeService.GetEmployeeAsync(id);
-            if (employee is null)
+            if (employee == null)
                 return NotFound();
-            return Ok(employee);
+            var employeeDto = _mapper.Map<EmployeeDto>(employee);
+            return Ok(employeeDto);
         }
 
         [HttpPost]
         public IActionResult Post([FromBody] EmployeePostModel emp)
         {
-            var employee = _mapper.Map<Employee>(emp);
-            _mapper.Map<List<RoleEmployee>>(emp.Roles);
-            employee.Roles = _mapper.Map<List<RoleEmployee>>(emp.Roles);
-            _employeeService.AddEmployeeAsync(employee);
+            var employeeToAdd = _mapper.Map<Employee>(emp);
+            employeeToAdd.Roles = emp.Roles.Select(role => _mapper.Map<Role>(role)).ToList();
+            _employeeService.AddEmployeeAsync(employeeToAdd);
             return Ok();
         }
 
         // PUT api/<EmployeeController>/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody] Employee emp)
+        public async Task<IActionResult> Put(int id, [FromBody] EmployeePostModel emp)
         {
-            var employee = await _employeeService.UpdateEmployeeAsync(id, emp);
-            if (employee is null)
-                return NotFound();
-            return Ok(employee);
+            var employee = _mapper.Map<Employee>(emp);
+            var updatedEmp = await _employeeService.UpdateEmployeeAsync(id,employee);
+            var empDto= _mapper.Map<EmployeeDto>(updatedEmp);
+            return Ok(empDto);
         }
 
         // DELETE api/<EmployeeController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
             _employeeService.DeleteEmployee(id);
+            return Ok();
         }
     }
 }

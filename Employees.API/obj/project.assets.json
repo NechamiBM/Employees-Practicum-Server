@@ -2940,11 +2940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\Employees.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\Employees.API.csproj",
       "projectName": "Employees.API",
-      "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\Employees.API.csproj",
+      "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\Employees.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\obj\\",
+      "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2965,8 +2965,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj": {
-              "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj"
+            "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj": {
+              "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj"
             }
           }
         }
@@ -2975,6 +2975,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3015,7 +3020,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

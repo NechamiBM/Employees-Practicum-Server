@@ -18,7 +18,7 @@ namespace Employees.Core.Entities
         public DateTime StartWorkDate { get; set; }
         public DateTime BirthDate { get; set; }
         public Gender Gender { get; set; }
-        public List<RoleEmployee> Roles { get; set; }
-        public bool IsActive { get; set; } = true;
+        public List<Role> Roles { get; set; } 
+        public bool IsActive { get; set; } 
     }
 }

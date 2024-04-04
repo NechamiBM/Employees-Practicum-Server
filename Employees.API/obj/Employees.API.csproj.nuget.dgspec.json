@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\Employees.API.csproj": {}
+    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\Employees.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\Employees.API.csproj": {
+    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\Employees.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\Employees.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\Employees.API.csproj",
         "projectName": "Employees.API",
-        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\Employees.API.csproj",
+        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\Employees.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.API\\obj\\",
+        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj": {
-                "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj"
+              "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj": {
+                "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj"
               }
             }
           }
@@ -42,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,18 +87,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Core\\Employees.Core.csproj": {
+    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Core\\Employees.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj",
         "projectName": "Employees.Core",
-        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Core\\Employees.Core.csproj",
+        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,6 +125,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -147,18 +157,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Data\\Employees.Data.csproj": {
+    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Data\\Employees.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj",
         "projectName": "Employees.Data",
-        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Data\\Employees.Data.csproj",
+        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,8 +189,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Core\\Employees.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Core\\Employees.Core.csproj"
+              "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj"
               }
             }
           }
@@ -189,6 +199,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -234,18 +249,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj": {
+    "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj",
         "projectName": "Employees.Service",
-        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\Employees.Service.csproj",
+        "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\Employees.Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Service\\obj\\",
+        "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -266,8 +281,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Data\\Employees.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE\\Employees\\Employees.Data\\Employees.Data.csproj"
+              "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj"
               }
             }
           }
@@ -276,6 +291,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -297,7 +317,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

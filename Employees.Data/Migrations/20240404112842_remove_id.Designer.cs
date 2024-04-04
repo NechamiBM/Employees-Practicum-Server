@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Employees.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240322004319_first")]
-    partial class first
+    [Migration("20240404112842_remove_id")]
+    partial class remove_id
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -63,6 +63,27 @@ namespace Employees.Data.Migrations
 
             modelBuilder.Entity("Employees.Core.Entities.Role", b =>
                 {
+                    b.Property<int>("RoleTypeId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("EmployeeId")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("IsAdministrative")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("StartDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("RoleTypeId", "EmployeeId");
+
+                    b.HasIndex("EmployeeId");
+
+                    b.ToTable("Role");
+                });
+
+            modelBuilder.Entity("Employees.Core.Entities.RoleType", b =>
+                {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
@@ -75,39 +96,10 @@ namespace Employees.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles");
+                    b.ToTable("RoleTypes");
                 });
 
-            modelBuilder.Entity("Employees.Core.Entities.RoleEmployee", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<int>("EmployeeId")
-                        .HasColumnType("int");
-
-                    b.Property<bool>("IsAdministrative")
-                        .HasColumnType("bit");
-
-                    b.Property<int>("RoleId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("StartDate")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("EmployeeId");
-
-                    b.HasIndex("RoleId");
-
-                    b.ToTable("RoleEmployee");
-                });
-
-            modelBuilder.Entity("Employees.Core.Entities.RoleEmployee", b =>
+            modelBuilder.Entity("Employees.Core.Entities.Role", b =>
                 {
                     b.HasOne("Employees.Core.Entities.Employee", null)
                         .WithMany("Roles")
@@ -115,13 +107,13 @@ namespace Employees.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Employees.Core.Entities.Role", "Role")
+                    b.HasOne("Employees.Core.Entities.RoleType", "RoleType")
                         .WithMany()
-                        .HasForeignKey("RoleId")
+                        .HasForeignKey("RoleTypeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Role");
+                    b.Navigation("RoleType");
                 });
 
             modelBuilder.Entity("Employees.Core.Entities.Employee", b =>

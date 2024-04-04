@@ -9,8 +9,7 @@ namespace Employees.API
         public ApiMappingProfile()
         {
             CreateMap<Employee, EmployeePostModel>().ReverseMap();
-            CreateMap<RoleEmployee, RoleEmployeePostModel>().ReverseMap();
+            CreateMap<Role, RolePostModel>().ReverseMap();
         }
     }
-
 }
