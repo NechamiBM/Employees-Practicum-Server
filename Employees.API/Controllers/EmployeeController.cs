@@ -27,7 +27,8 @@ namespace Employees.API.Controllers
         public async Task<IActionResult> Get(string? filter)
         {
             var employees = await _employeeService.GetEmployeesAsync(filter);
-            var employeeDtos = employees.Select(e => _mapper.Map<EmployeeDto>(e));//_mapper.Map<IEnumerable<EmployeeDto>>(employees);
+            var employeeDtos = employees.Select(e => _mapper.Map<EmployeeDto>(e));
+            employeeDtos.Select(emp => emp.Roles = emp.Roles.Select(role => _mapper.Map<RoleDto>(role)).ToList());
             return Ok(employeeDtos);
         }
 
@@ -56,8 +57,8 @@ namespace Employees.API.Controllers
         public async Task<IActionResult> Put(int id, [FromBody] EmployeePostModel emp)
         {
             var employee = _mapper.Map<Employee>(emp);
-            var updatedEmp = await _employeeService.UpdateEmployeeAsync(id,employee);
-            var empDto= _mapper.Map<EmployeeDto>(updatedEmp);
+            var updatedEmp = await _employeeService.UpdateEmployeeAsync(id, employee);
+            var empDto = _mapper.Map<EmployeeDto>(updatedEmp);
             return Ok(empDto);
         }
 

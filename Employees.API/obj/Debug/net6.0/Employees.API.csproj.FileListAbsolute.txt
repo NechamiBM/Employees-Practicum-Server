@@ -83,3 +83,4 @@ C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימוש
 C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
 C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
 C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll
+C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.API\bin\Debug\net6.0\Castle.Core.dll
