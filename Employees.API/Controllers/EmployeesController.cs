@@ -4,19 +4,18 @@ using Employees.Core.DTOs;
 using Employees.Core.Entities;
 using Employees.Core.Services;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Employees.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EmployeeController : ControllerBase
+    public class EmployeesController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
         private readonly IMapper _mapper;
 
-        public EmployeeController(IEmployeeService employeeService, IMapper mapper)
+        public EmployeesController(IEmployeeService employeeService, IMapper mapper)
         {
             _employeeService = employeeService;
             _mapper = mapper;
@@ -27,8 +26,8 @@ namespace Employees.API.Controllers
         public async Task<IActionResult> Get(string? filter)
         {
             var employees = await _employeeService.GetEmployeesAsync(filter);
-            var employeeDtos = employees.Select(e => _mapper.Map<EmployeeDto>(e));
-            employeeDtos.Select(emp => emp.Roles = emp.Roles.Select(role => _mapper.Map<RoleDto>(role)).ToList());
+            var employeeDtos = _mapper.Map<List<EmployeeDto>>(employees).ToList();
+            employeeDtos.Select(emp => emp.Roles = _mapper.Map<List<RoleDto>>(emp.Roles).ToList());
             return Ok(employeeDtos);
         }
 
@@ -44,12 +43,13 @@ namespace Employees.API.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] EmployeePostModel emp)
+        public async Task<IActionResult> PostAsync([FromBody] EmployeePostModel emp)
         {
             var employeeToAdd = _mapper.Map<Employee>(emp);
             employeeToAdd.Roles = emp.Roles.Select(role => _mapper.Map<Role>(role)).ToList();
-            _employeeService.AddEmployeeAsync(employeeToAdd);
-            return Ok();
+            if (await _employeeService.AddEmployeeAsync(employeeToAdd) == true)
+                return Ok();
+            return BadRequest("Not Vaild Parameters");
         }
 
         // PUT api/<EmployeeController>/5

@@ -24,10 +24,16 @@ namespace Employees.Service
 
         public async Task<Employee> GetEmployeeAsync(int id) => await _employeeRepository.GetEmployeeAsync(id);
 
-        public async Task AddEmployeeAsync(Employee emp)
+        public async Task<bool> AddEmployeeAsync(Employee emp)
         {
             emp.IsActive = true;
+            if (emp.BirthDate > DateTime.Now || emp.StartWorkDate < emp.BirthDate)
+                return false;
+            foreach (var r in emp.Roles)
+                if (r.StartDate < emp.StartWorkDate)
+                    return false;
             await _employeeRepository.AddEmployeeAsync(emp);
+            return true;
         }
 
         public async Task<Employee> UpdateEmployeeAsync(int id, Employee emp) => await _employeeRepository.UpdateEmployeeAsync(id, emp);

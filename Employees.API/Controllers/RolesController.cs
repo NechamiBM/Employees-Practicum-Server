@@ -1,22 +1,19 @@
 ﻿using AutoMapper;
-using Employees.API.Models;
-using Employees.Core.DTOs;
 using Employees.Core.Entities;
 using Employees.Core.Services;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Employees.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class RoleController : ControllerBase
+    public class RolesController : ControllerBase
     {
         private readonly IRoleService _roleService;
         private readonly IMapper _mapper;
 
-        public RoleController(IRoleService roleService, IMapper mapper)
+        public RolesController(IRoleService roleService, IMapper mapper)
         {
             _roleService = roleService;
             _mapper = mapper;

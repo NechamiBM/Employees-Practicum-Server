@@ -2,7 +2,6 @@
 using Employees.Core.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace Employees.Data.Repositories
 {
     public class EmployeeRepository : IEmployeeRepository
@@ -12,7 +11,7 @@ namespace Employees.Data.Repositories
 
         public async Task<IEnumerable<Employee>> GetEmployeesAsync() => await Task.FromResult(_context.Employees.Include(e => e.Roles).ThenInclude(r => r.RoleType));
 
-        public async Task<Employee> GetEmployeeAsync(int id) => await _context.Employees.Where(e => e.Id == id).Include(e => e.Roles).ThenInclude(r => r.RoleType).FirstAsync();
+        public async Task<Employee> GetEmployeeAsync(int id) => await _context.Employees.Where(e => e.Id == id).Include(e => e.Roles).ThenInclude(r => r.RoleType).FirstOrDefaultAsync();
 
         public async Task AddEmployeeAsync(Employee emp)
         {
@@ -32,7 +31,6 @@ namespace Employees.Data.Repositories
                 employee.BirthDate = emp.BirthDate;
                 employee.Gender = emp.Gender;
                 employee.StartWorkDate = emp.StartWorkDate;
-                employee.IsActive = emp.IsActive;
                 employee.Roles= emp.Roles.DistinctBy(r => r.RoleTypeId).ToList();
             }
             await _context.SaveChangesAsync();
