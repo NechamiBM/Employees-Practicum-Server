@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Employees.Core
-build_property.ProjectDir = C:\Users\User\Pictures\תכנות שנה ב\Practicum\2 ROLE טוב ושימושי\Employees\Employees.Core\
+build_property.ProjectDir = C:\Users\User\Pictures\תכנות שנה ב\Practicum\Employees\Employees-server\Employees.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

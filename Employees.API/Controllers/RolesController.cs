@@ -11,13 +11,8 @@ namespace Employees.API.Controllers
     public class RolesController : ControllerBase
     {
         private readonly IRoleService _roleService;
-        private readonly IMapper _mapper;
 
-        public RolesController(IRoleService roleService, IMapper mapper)
-        {
-            _roleService = roleService;
-            _mapper = mapper;
-        }
+        public RolesController(IRoleService roleService) => _roleService = roleService;
 
         [HttpGet]
         public async Task<IActionResult> Get()

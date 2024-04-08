@@ -12,5 +12,6 @@ namespace Employees.Service
         public async Task<IEnumerable<RoleType>> GetRolesAsync() => await _roleRepository.GetRolesAsync();
 
         public async Task AddRoleAsync(RoleType role)=> await _roleRepository.AddRoleAsync(role);
+
     }
 }

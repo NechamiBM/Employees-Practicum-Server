@@ -47,9 +47,8 @@ namespace Employees.API.Controllers
         {
             var employeeToAdd = _mapper.Map<Employee>(emp);
             employeeToAdd.Roles = emp.Roles.Select(role => _mapper.Map<Role>(role)).ToList();
-            if (await _employeeService.AddEmployeeAsync(employeeToAdd) == true)
-                return Ok();
-            return BadRequest("Not Vaild Parameters");
+            await _employeeService.AddEmployeeAsync(employeeToAdd);
+            return Ok();
         }
 
         // PUT api/<EmployeeController>/5

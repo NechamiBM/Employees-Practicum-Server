@@ -2727,11 +2727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Data\\Employees.Data.csproj",
       "projectName": "Employees.Data",
-      "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj",
+      "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Data\\Employees.Data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\obj\\",
+      "outputPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2752,8 +2752,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj": {
-              "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Core\\Employees.Core.csproj"
+            "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Core\\Employees.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Core\\Employees.Core.csproj"
             }
           }
         }

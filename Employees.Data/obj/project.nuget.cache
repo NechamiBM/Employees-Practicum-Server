@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7DeOFo7QXpp+pKEyT/f1m/YnvjFKRFZ6szpZglE9BwDt3uP/M1pwpwOUHKE3qWttiYB3yUkA0Lwcn74f6r7WoA==",
+  "dgSpecHash": "I6wEnclxkYUdh7pyKpeBg3LJnbxF7eVmL7lGcKVoY9BZotu/hIKeNFzzNbiAwl/CLhxoxSaOix+L44kXm1+ohg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\2 ROLE טוב ושימושי\\Employees\\Employees.Data\\Employees.Data.csproj",
+  "projectFilePath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Data\\Employees.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

@@ -15,7 +15,6 @@ namespace Employees.Data.Repositories
 
         public async Task AddEmployeeAsync(Employee emp)
         {
-            emp.Roles.DistinctBy(r => r.RoleTypeId).ToList();
             _context.Employees.Add(emp);
             await Task.FromResult(_context.SaveChangesAsync());
         }

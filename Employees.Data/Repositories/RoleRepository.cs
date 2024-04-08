@@ -16,6 +16,5 @@ namespace Employees.Data.Repositories
                 _context.RoleTypes.Add(role);
             await _context.SaveChangesAsync();
         }
-
     }
 }
