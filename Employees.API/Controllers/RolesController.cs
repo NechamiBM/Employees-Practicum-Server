@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Employees.API.Models;
 using Employees.Core.Entities;
 using Employees.Core.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -11,8 +12,13 @@ namespace Employees.API.Controllers
     public class RolesController : ControllerBase
     {
         private readonly IRoleService _roleService;
+        private readonly IMapper _mapper;
 
-        public RolesController(IRoleService roleService) => _roleService = roleService;
+        public RolesController(IRoleService roleService, IMapper mapper)
+        {
+            _roleService = roleService;
+            _mapper = mapper;
+        }
 
         [HttpGet]
         public async Task<IActionResult> Get()
@@ -22,9 +28,10 @@ namespace Employees.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] RoleType role)
+        public async Task<IActionResult> Post([FromBody] RoleTypePostModel role)
         {
-            await _roleService.AddRoleAsync(role);
+            var roleToAdd = _mapper.Map<RoleType>(role);
+            await _roleService.AddRoleAsync(roleToAdd);
             return Ok();
         }
     }

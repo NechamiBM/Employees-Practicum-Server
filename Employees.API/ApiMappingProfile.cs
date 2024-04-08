@@ -10,6 +10,7 @@ namespace Employees.API
         {
             CreateMap<Employee, EmployeePostModel>().ReverseMap();
             CreateMap<Role, RolePostModel>().ReverseMap();
+            CreateMap<RoleType, RoleTypePostModel>().ReverseMap();
         }
     }
 }
