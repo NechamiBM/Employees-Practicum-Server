@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/XY6DGAW4IwtDa5VJdRSnYR6pC9UPcsHjGdyf/SJJ7H8f3+tJ2jhAGD9iI1oq4xRJWau8z8Vu0n6TjNrefG2Vg==",
+  "dgSpecHash": "tSdVV3bcAH63+SQKxlX6vxQLfKVm9qwALN2pS9Ihhi3VE0CrWXv/P7eUebHpWE1RFiBeLtAUZXqcQ7B2f5xYgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Pictures\\תכנות שנה ב\\Practicum\\Employees\\Employees-server\\Employees.Core\\Employees.Core.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_1\\בן  מנחם נחמה\\Employees-Practicum-Server\\Employees.Core\\Employees.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
